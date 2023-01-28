@@ -1,0 +1,23 @@
+{
+  "name": "djs-basit-altyapi",
+  "version": "1.0.0",
+  "description": "Loiren tarafından yapılmış, discord.js v14 basit bir altyapı.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loirenn/discord.js-v14-basit-altyapi.git"
+  },
+  "author": "Loiren",
+  "license": "MIT",
+  "homepage": "https://github.com/Loirenn/discord.js-v14-basit-altyapi#readme",
+  "dependencies": {
+    "advanced-logs": "^2.1.3",
+    "discord.js": "^14.7.1",
+    "glob": "^8.1.0",
+    "mongoose": "^6.9.0",
+    "path": "^0.12.7"
+  }
+}
